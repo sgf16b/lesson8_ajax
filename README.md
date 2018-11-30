@@ -13,7 +13,7 @@ Shalise Franklin.
 In this assignment, we are designing an application that will display different information about different movies. We will be using jQuery and AJAX methods to parse JSON data returned from a 3rd party server, TheMovieDB (TMDB) API, to access the movie data. The user will enter the name of a movie, and the program will display the movie title, movie plot, release date, popularity rating, language, and the poster. 
 
 ### View Project:
-https://sgf16b.github.io/lesson8_ajax/.
+https://sgf16b.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. Application-programming interface (API)- AN Application-programming interface, or API, is a set of programming instructions and standards for accessing a Web-based software application or Web tool.
